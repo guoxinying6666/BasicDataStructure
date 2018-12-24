@@ -1,0 +1,1717 @@
+Malika Guajardo
+Chest pain
+Pulse: 134
+Temp: 98.6
+PRIORITY 5
+18
+Chau Mulkey
+Head wound
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+22
+Georgiann Sharrow
+Head wound
+Pulse: 67
+Temp: 98.6
+PRIORITY 5
+22
+Sherilyn Lopiccolo
+Chest pain
+Pulse: 145
+Temp: 102
+PRIORITY 5
+37
+Rubin Litle
+Head wound
+Chest pain
+Pulse: 100
+Temp: 99.6
+PRIORITY 5
+37
+Sydney Barber
+Pulse: 127
+Temp: 96.5
+PRIORITY 5
+39
+Collen Lindenberg
+Chest pain
+Pulse: 120
+Temp: 98.6
+PRIORITY 5
+40
+Lita Hannan
+Head wound
+Pulse: 75
+Temp: 89.1
+PRIORITY 5
+41
+Joette James
+Pulse: 100
+Temp: 91.5
+PRIORITY 5
+42
+Marin Sokoloski
+Chest pain
+Pulse: 112
+Temp: 98.6
+PRIORITY 5
+42
+Margo Haveman
+Pulse: 128
+Temp: 90.7
+PRIORITY 5
+43
+Janelle Vinson
+Head wound
+Pulse: 100
+Temp: 97.4
+PRIORITY 5
+43
+Shondra Warfield
+Head wound
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+44
+Zulma Batista
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+45
+Dian Contos
+Pulse: 138
+Temp: 97.6
+PRIORITY 5
+46
+Chelsea Sweetser
+Head wound
+Chest pain
+Pulse: 67
+Temp: 98.6
+PRIORITY 5
+47
+Chasity Estevez
+Chest pain
+Pulse: 100
+Temp: 103.3
+PRIORITY 5
+47
+Merideth Gander
+Head wound
+Pulse: 100
+Temp: 89.4
+PRIORITY 5
+47
+Kayla Florentino
+Chest pain
+Pulse: 100
+Temp: 94.3
+PRIORITY 5
+48
+Hortense Mistretta
+Head wound
+Pulse: 68
+Temp: 98.6
+PRIORITY 5
+48
+Berenice Castenada
+Head wound
+Chest pain
+Pulse: 90
+Temp: 98.6
+PRIORITY 5
+50
+Rosemary Prejean
+Head wound
+Pulse: 100
+Temp: 92.5
+PRIORITY 5
+50
+Hiroko Isett
+Head wound
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+50
+Ranae Blauser
+Head wound
+Pulse: 141
+Temp: 103.9
+PRIORITY 5
+51
+Charlsie Crater
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+51
+Willia Mccarron
+Pulse: 60
+Temp: 102.1
+PRIORITY 5
+52
+Garry Eger
+Chest pain
+Pulse: 100
+Temp: 94.6
+PRIORITY 5
+52
+Jeneva Torchia
+Head wound
+Chest pain
+Pulse: 138
+Temp: 97.5
+PRIORITY 5
+52
+Refugio Lupton
+Chest pain
+Pulse: 75
+Temp: 97.7
+PRIORITY 5
+53
+Kristine Cork
+Pulse: 97
+Temp: 97.9
+PRIORITY 5
+53
+Karma Packard
+Pulse: 113
+Temp: 99.8
+PRIORITY 5
+53
+Lieselotte Sifuentes
+Head wound
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+54
+Etsuko Spruell
+Head wound
+Pulse: 100
+Temp: 104.9
+PRIORITY 5
+54
+Roseanne Jandreau
+Head wound
+Pulse: 119
+Temp: 87.4
+PRIORITY 5
+55
+Remona Fiorita
+Head wound
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+57
+Margurite Eilers
+Pulse: 100
+Temp: 97.5
+PRIORITY 5
+57
+Brittny Tolbert
+Head wound
+Chest pain
+Pulse: 134
+Temp: 98.6
+PRIORITY 5
+57
+Yesenia Oros
+Head wound
+Pulse: 98
+Temp: 98.6
+PRIORITY 5
+57
+Xuan Loza
+Chest pain
+Pulse: 100
+Temp: 95
+PRIORITY 5
+58
+Jacob Montesdeoca
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+58
+Gus Remer
+Head wound
+Chest pain
+Pulse: 100
+Temp: 104.8
+PRIORITY 5
+59
+Erin Lail
+Chest pain
+Pulse: 105
+Temp: 98.6
+PRIORITY 5
+60
+Marianne Ratliff
+Chest pain
+Pulse: 100
+Temp: 89.7
+PRIORITY 5
+60
+Vivienne Farrel
+Head wound
+Chest pain
+Pulse: 100
+Temp: 89.3
+PRIORITY 5
+61
+Florance Guertin
+Chest pain
+Pulse: 100
+Temp: 96.8
+PRIORITY 5
+62
+Jenise Woo
+Head wound
+Pulse: 93
+Temp: 98.6
+PRIORITY 5
+62
+Mao Mowry
+Head wound
+Pulse: 67
+Temp: 102.3
+PRIORITY 5
+62
+Luciana Bowlby
+Head wound
+Chest pain
+Pulse: 100
+Temp: 95.6
+PRIORITY 5
+63
+Janeth Frenette
+Head wound
+Pulse: 109
+Temp: 88
+PRIORITY 5
+65
+Marisol Broman
+Head wound
+Chest pain
+Pulse: 125
+Temp: 92.9
+PRIORITY 5
+65
+Kiana Mash
+Chest pain
+Pulse: 112
+Temp: 94.7
+PRIORITY 5
+66
+Darlene Samples
+Head wound
+Pulse: 69
+Temp: 94.8
+PRIORITY 5
+66
+Laquanda Sandhu
+Head wound
+Chest pain
+Pulse: 114
+Temp: 87.6
+PRIORITY 5
+67
+Bud Neidert
+Head wound
+Chest pain
+Pulse: 100
+Temp: 94.8
+PRIORITY 5
+67
+Darcel Neves
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+67
+Jeraldine Enochs
+Head wound
+Chest pain
+Pulse: 87
+Temp: 98.6
+PRIORITY 5
+68
+Tamekia Wixom
+Chest pain
+Pulse: 143
+Temp: 102.5
+PRIORITY 5
+68
+Fleta Winans
+Head wound
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+68
+Aron Ly
+Head wound
+Pulse: 100
+Temp: 100.9
+PRIORITY 5
+68
+Vaughn Courtemanche
+Head wound
+Pulse: 100
+Temp: 102.9
+PRIORITY 5
+69
+Sherri Ambler
+Pulse: 117
+Temp: 98.6
+PRIORITY 5
+69
+Leanora Chaney
+Chest pain
+Pulse: 132
+Temp: 103.5
+PRIORITY 5
+69
+Tanisha Tweed
+Head wound
+Pulse: 100
+Temp: 87.2
+PRIORITY 5
+69
+Christia Cheyne
+Chest pain
+Pulse: 125
+Temp: 104.9
+PRIORITY 5
+70
+Han Fritz
+Head wound
+Pulse: 100
+Temp: 96.8
+PRIORITY 5
+71
+Crissy Paredes
+Head wound
+Pulse: 100
+Temp: 99.8
+PRIORITY 5
+71
+Reta Capuano
+Head wound
+Chest pain
+Pulse: 100
+Temp: 103.7
+PRIORITY 5
+71
+Earline Blakney
+Head wound
+Pulse: 136
+Temp: 88.3
+PRIORITY 5
+72
+Kathyrn Tarbell
+Pulse: 100
+Temp: 94
+PRIORITY 5
+73
+Dwight Koffler
+Pulse: 119
+Temp: 94.4
+PRIORITY 5
+75
+Jefferson Kilgo
+Head wound
+Chest pain
+Pulse: 100
+Temp: 91.5
+PRIORITY 5
+76
+Hellen Baine
+Chest pain
+Pulse: 61
+Temp: 95.7
+PRIORITY 5
+76
+Laquita Courson
+Head wound
+Chest pain
+Pulse: 122
+Temp: 101.8
+PRIORITY 5
+76
+Liz Cordell
+Head wound
+Pulse: 109
+Temp: 98.6
+PRIORITY 5
+78
+Basilia Ayer
+Head wound
+Pulse: 121
+Temp: 85.9
+PRIORITY 5
+80
+Tosha Sanches
+Chest pain
+Pulse: 90
+Temp: 96.6
+PRIORITY 5
+81
+Lisa Rodriques
+Chest pain
+Pulse: 100
+Temp: 100.4
+PRIORITY 5
+81
+Azzie Papke
+Head wound
+Chest pain
+Pulse: 100
+Temp: 87.8
+PRIORITY 5
+82
+Maribel Booth
+Head wound
+Pulse: 100
+Temp: 102.9
+PRIORITY 5
+82
+Tessa Lafler
+Head wound
+Pulse: 121
+Temp: 96.3
+PRIORITY 5
+83
+Rodrigo Medford
+Chest pain
+Pulse: 98
+Temp: 94.5
+PRIORITY 5
+83
+Sandy Vanderpol
+Head wound
+Chest pain
+Pulse: 100
+Temp: 102.6
+PRIORITY 5
+84
+Foster Maltese
+Chest pain
+Pulse: 78
+Temp: 104.2
+PRIORITY 5
+84
+Yvone Karst
+Head wound
+Chest pain
+Pulse: 80
+Temp: 101.4
+PRIORITY 5
+84
+Virginia Cass
+Head wound
+Chest pain
+Pulse: 100
+Temp: 102.4
+PRIORITY 5
+84
+Latricia Pawlak
+Head wound
+Chest pain
+Pulse: 100
+Temp: 94.2
+PRIORITY 5
+85
+Woodrow Mcree
+Chest pain
+Pulse: 100
+Temp: 94.2
+PRIORITY 5
+85
+Solomon Toomer
+Head wound
+Chest pain
+Pulse: 112
+Temp: 98.6
+PRIORITY 5
+87
+Olga Corbett
+Chest pain
+Pulse: 72
+Temp: 90.8
+PRIORITY 5
+88
+Kyra Urbanek
+Head wound
+Pulse: 100
+Temp: 93.2
+PRIORITY 5
+88
+Clarice Sweeny
+Head wound
+Chest pain
+Pulse: 98
+Temp: 103.3
+PRIORITY 5
+89
+Bambi Nicklas
+Head wound
+Chest pain
+Pulse: 99
+Temp: 89.8
+PRIORITY 5
+90
+Orval Helgeson
+Head wound
+Chest pain
+Pulse: 124
+Temp: 103
+PRIORITY 5
+90
+Tawanna Urick
+Chest pain
+Pulse: 100
+Temp: 91.4
+PRIORITY 5
+91
+Kandace Aguillard
+Head wound
+Pulse: 149
+Temp: 88.5
+PRIORITY 5
+92
+Jackqueline Geddes
+Chest pain
+Pulse: 82
+Temp: 98.6
+PRIORITY 5
+92
+Sherman Pinckney
+Chest pain
+Pulse: 73
+Temp: 86.3
+PRIORITY 5
+92
+Fatimah Stabile
+Pulse: 107
+Temp: 98.6
+PRIORITY 5
+93
+Anastasia Camilleri
+Chest pain
+Pulse: 76
+Temp: 98.6
+PRIORITY 5
+93
+Cheree Bechtold
+Pulse: 134
+Temp: 90.5
+PRIORITY 5
+93
+Ezekiel Jeon
+Head wound
+Chest pain
+Pulse: 88
+Temp: 90.8
+PRIORITY 5
+93
+Forest Dibernardo
+Head wound
+Chest pain
+Pulse: 115
+Temp: 98.6
+PRIORITY 5
+94
+Staci Lasker
+Head wound
+Pulse: 67
+Temp: 98.6
+PRIORITY 5
+95
+Denice Ferrell
+Chest pain
+Pulse: 69
+Temp: 90.2
+PRIORITY 5
+95
+Delphia Ordaz
+Head wound
+Chest pain
+Pulse: 68
+Temp: 97.3
+PRIORITY 5
+96
+Margarita Krall
+Head wound
+Pulse: 100
+Temp: 98.9
+PRIORITY 5
+97
+Jude Broadfoot
+Head wound
+Pulse: 140
+Temp: 92.5
+PRIORITY 5
+97
+Mercedes Hauser
+Head wound
+Chest pain
+Pulse: 132
+Temp: 95.2
+PRIORITY 5
+97
+Hyon Cornelison
+Pulse: 100
+Temp: 95.8
+PRIORITY 5
+97
+Charlott Perri
+Head wound
+Pulse: 144
+Temp: 102.2
+PRIORITY 5
+99
+Enrique Quinto
+Head wound
+Pulse: 100
+Temp: 89.8
+PRIORITY 5
+99
+Alena Gracey
+Chest pain
+Pulse: 117
+Temp: 89.8
+PRIORITY 5
+100
+Sook Euell
+Head wound
+Pulse: 71
+Temp: 97.2
+PRIORITY 5
+101
+Karlyn Weidman
+Pulse: 103
+Temp: 98.6
+PRIORITY 5
+101
+Oralee Villalpando
+Chest pain
+Pulse: 71
+Temp: 98.6
+PRIORITY 5
+101
+Ernest Wise
+Head wound
+Pulse: 90
+Temp: 88.1
+PRIORITY 5
+101
+Ceola Pinegar
+Head wound
+Chest pain
+Pulse: 123
+Temp: 98.6
+PRIORITY 5
+101
+Leia Bromberg
+Head wound
+Pulse: 77
+Temp: 98.6
+PRIORITY 5
+102
+Arron Waterman
+Chest pain
+Pulse: 76
+Temp: 85.4
+PRIORITY 5
+102
+Melania Reif
+Head wound
+Pulse: 79
+Temp: 98.6
+PRIORITY 5
+102
+Dina Herrington
+Pulse: 122
+Temp: 94.5
+PRIORITY 5
+102
+Elna Coker
+Head wound
+Chest pain
+Pulse: 89
+Temp: 98.6
+PRIORITY 5
+103
+Tomiko Orourke
+Head wound
+Chest pain
+Pulse: 97
+Temp: 98.6
+PRIORITY 5
+103
+Charles Driver
+Chest pain
+Pulse: 100
+Temp: 101.9
+PRIORITY 5
+104
+Mason Shedd
+Head wound
+Chest pain
+Pulse: 90
+Temp: 96.4
+PRIORITY 5
+104
+Elin Cristobal
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+106
+Alicia Garibay
+Head wound
+Chest pain
+Pulse: 100
+Temp: 86.4
+PRIORITY 5
+107
+Duncan Belding
+Pulse: 76
+Temp: 103.6
+PRIORITY 5
+108
+Keena Blanca
+Head wound
+Pulse: 78
+Temp: 100.9
+PRIORITY 5
+109
+Norbert Sprow
+Pulse: 100
+Temp: 85.8
+PRIORITY 5
+109
+Wilhemina Greaver
+Head wound
+Pulse: 79
+Temp: 102.5
+PRIORITY 5
+109
+Cheyenne Laufer
+Head wound
+Chest pain
+Pulse: 146
+Temp: 98.6
+PRIORITY 5
+110
+Forest Scheffel
+Head wound
+Chest pain
+Pulse: 100
+Temp: 102.4
+PRIORITY 5
+110
+Nubia Ellisor
+Head wound
+Chest pain
+Pulse: 98
+Temp: 93.2
+PRIORITY 5
+111
+Cecelia Sifuentes
+Chest pain
+Pulse: 93
+Temp: 98.6
+PRIORITY 5
+111
+Shirly Squillante
+Head wound
+Pulse: 69
+Temp: 98.6
+PRIORITY 5
+111
+Deidra Rowlett
+Chest pain
+Pulse: 100
+Temp: 92.7
+PRIORITY 5
+111
+Heide Cecil
+Pulse: 128
+Temp: 98
+PRIORITY 5
+112
+Francisco Mcnellis
+Pulse: 149
+Temp: 98.6
+PRIORITY 5
+112
+Marcelino Trautman
+Pulse: 141
+Temp: 98.6
+PRIORITY 5
+112
+Nathan Heinze
+Head wound
+Chest pain
+Pulse: 138
+Temp: 103.8
+PRIORITY 5
+112
+Katina Bernard
+Pulse: 100
+Temp: 89.8
+PRIORITY 5
+112
+Jamee Fobbs
+Chest pain
+Pulse: 67
+Temp: 94
+PRIORITY 5
+113
+Claris Shuster
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+114
+Quinton Ralph
+Head wound
+Chest pain
+Pulse: 73
+Temp: 91.9
+PRIORITY 5
+117
+Allena Meloy
+Pulse: 143
+Temp: 98.6
+PRIORITY 5
+117
+Tandy Parodi
+Head wound
+Chest pain
+Pulse: 116
+Temp: 86.5
+PRIORITY 5
+118
+Rossie Boshart
+Pulse: 100
+Temp: 85.6
+PRIORITY 5
+118
+Marylyn Stenberg
+Chest pain
+Pulse: 99
+Temp: 89.2
+PRIORITY 5
+118
+Delta Yahn
+Head wound
+Chest pain
+Pulse: 100
+Temp: 88.8
+PRIORITY 5
+118
+Margret Coday
+Chest pain
+Pulse: 79
+Temp: 86.6
+PRIORITY 5
+119
+Johnna Bonneau
+Pulse: 100
+Temp: 86.6
+PRIORITY 5
+120
+Verla Rossi
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+120
+Rosena Steptoe
+Head wound
+Chest pain
+Pulse: 83
+Temp: 88.3
+PRIORITY 5
+120
+Launa Grizzard
+Head wound
+Chest pain
+Pulse: 100
+Temp: 102
+PRIORITY 5
+120
+Rima Meinke
+Pulse: 134
+Temp: 98.6
+PRIORITY 5
+120
+Emmett Combs
+Chest pain
+Pulse: 132
+Temp: 98.6
+PRIORITY 5
+121
+Rico Tomei
+Head wound
+Pulse: 104
+Temp: 98.6
+PRIORITY 5
+122
+Wally Stilson
+Pulse: 112
+Temp: 97
+PRIORITY 5
+122
+Danae Trybus
+Chest pain
+Pulse: 145
+Temp: 98.6
+PRIORITY 5
+123
+Alesia Cree
+Head wound
+Chest pain
+Pulse: 100
+Temp: 92.3
+PRIORITY 5
+125
+Mckenzie Thoms
+Head wound
+Pulse: 100
+Temp: 90.1
+PRIORITY 5
+125
+Marya Perz
+Chest pain
+Pulse: 125
+Temp: 88.9
+PRIORITY 5
+126
+Gregory Mcmillon
+Chest pain
+Pulse: 145
+Temp: 91.6
+PRIORITY 5
+127
+Randee Steinmetz
+Pulse: 114
+Temp: 95.6
+PRIORITY 5
+130
+Delicia Boehme
+Pulse: 111
+Temp: 93.9
+PRIORITY 5
+130
+Chelsey Kuebler
+Pulse: 100
+Temp: 93.3
+PRIORITY 5
+131
+Leatrice Massenburg
+Pulse: 143
+Temp: 90.3
+PRIORITY 5
+131
+Fannie Navarette
+Head wound
+Chest pain
+Pulse: 91
+Temp: 98.6
+PRIORITY 5
+132
+Elly Bodenhamer
+Head wound
+Chest pain
+Pulse: 113
+Temp: 100.5
+PRIORITY 5
+132
+Amalia Pallas
+Head wound
+Pulse: 133
+Temp: 93.2
+PRIORITY 5
+132
+Ima Segers
+Head wound
+Chest pain
+Pulse: 65
+Temp: 86.7
+PRIORITY 5
+133
+Maribeth Underdown
+Head wound
+Chest pain
+Pulse: 104
+Temp: 102.1
+PRIORITY 5
+133
+Gilberte Seng
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+134
+Krishna Basch
+Head wound
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+135
+Adaline Althouse
+Head wound
+Pulse: 100
+Temp: 103.9
+PRIORITY 5
+135
+Bettina Greenlaw
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+135
+Donn Pemberton
+Head wound
+Pulse: 109
+Temp: 104.8
+PRIORITY 5
+136
+Fanny Beedle
+Chest pain
+Pulse: 130
+Temp: 102.7
+PRIORITY 5
+136
+Elizbeth Erdman
+Chest pain
+Pulse: 123
+Temp: 96.1
+PRIORITY 5
+136
+Faviola Ahern
+Head wound
+Chest pain
+Pulse: 69
+Temp: 98.6
+PRIORITY 5
+137
+Tawny Behar
+Head wound
+Chest pain
+Pulse: 70
+Temp: 98.6
+PRIORITY 5
+137
+Marlin Riccardi
+Head wound
+Pulse: 143
+Temp: 94.8
+PRIORITY 5
+138
+Wilburn Divine
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+139
+Marylyn Stmartin
+Pulse: 146
+Temp: 98.6
+PRIORITY 5
+139
+Brigitte Northrup
+Head wound
+Pulse: 115
+Temp: 100.5
+PRIORITY 5
+139
+Melvina Spink
+Pulse: 95
+Temp: 86.7
+PRIORITY 5
+140
+Caprice Andrus
+Head wound
+Chest pain
+Pulse: 75
+Temp: 90.7
+PRIORITY 5
+140
+Marry Frasure
+Chest pain
+Pulse: 94
+Temp: 98.6
+PRIORITY 5
+140
+Christine Sevin
+Head wound
+Pulse: 62
+Temp: 98.6
+PRIORITY 5
+140
+Lucretia Garton
+Head wound
+Pulse: 136
+Temp: 89.4
+PRIORITY 5
+141
+Annette Saia
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+142
+Everette Maclaren
+Chest pain
+Pulse: 61
+Temp: 98.6
+PRIORITY 5
+143
+Steffanie Neaves
+Chest pain
+Pulse: 100
+Temp: 94.1
+PRIORITY 5
+144
+Clair Mcglaughlin
+Chest pain
+Pulse: 129
+Temp: 94.8
+PRIORITY 5
+144
+Almeta Kort
+Head wound
+Chest pain
+Pulse: 100
+Temp: 99.2
+PRIORITY 5
+145
+Giovanna Brey
+Head wound
+Pulse: 100
+Temp: 104.2
+PRIORITY 5
+145
+Marcelene Mccoll
+Head wound
+Chest pain
+Pulse: 142
+Temp: 98.6
+PRIORITY 5
+145
+Katerine Cutrer
+Chest pain
+Pulse: 149
+Temp: 102.7
+PRIORITY 5
+146
+Paulina Prentice
+Head wound
+Pulse: 62
+Temp: 98.6
+PRIORITY 5
+146
+Ladawn Pryor
+Head wound
+Chest pain
+Pulse: 100
+Temp: 101.7
+PRIORITY 5
+148
+Denyse Heineman
+Pulse: 100
+Temp: 94.7
+PRIORITY 5
+149
+Nanette Savarese
+Chest pain
+Pulse: 130
+Temp: 98.6
+PRIORITY 5
+149
+Shenita Rockefeller
+Chest pain
+Pulse: 133
+Temp: 98.6
+PRIORITY 5
+149
+Grady Dais
+Chest pain
+Pulse: 103
+Temp: 95.2
+PRIORITY 5
+150
+Vickie Wildt
+Pulse: 100
+Temp: 91.1
+PRIORITY 5
+150
+Vernie Slape
+Head wound
+Chest pain
+Pulse: 100
+Temp: 85.3
+PRIORITY 5
+150
+Hedy Ravenell
+Head wound
+Chest pain
+Pulse: 140
+Temp: 92.9
+PRIORITY 5
+151
+Nannette Hockenberry
+Chest pain
+Pulse: 100
+Temp: 95.6
+PRIORITY 5
+152
+Domenica Johnson
+Head wound
+Chest pain
+Pulse: 82
+Temp: 104.7
+PRIORITY 5
+152
+Sonny Vogel
+Chest pain
+Pulse: 100
+Temp: 90.1
+PRIORITY 5
+154
+Patty Heft
+Chest pain
+Pulse: 122
+Temp: 98.6
+PRIORITY 5
+154
+Rob Fyffe
+Chest pain
+Pulse: 102
+Temp: 89.5
+PRIORITY 5
+156
+Rachael Powe
+Head wound
+Pulse: 128
+Temp: 103.4
+PRIORITY 5
+156
+Sebastian Fava
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+156
+Chauncey Hyde
+Chest pain
+Pulse: 133
+Temp: 98.6
+PRIORITY 5
+156
+Brinda Thornley
+Head wound
+Chest pain
+Pulse: 100
+Temp: 103.7
+PRIORITY 5
+156
+Sid Portman
+Head wound
+Pulse: 70
+Temp: 94.7
+PRIORITY 5
+156
+Starla Malkin
+Pulse: 73
+Temp: 103.4
+PRIORITY 5
+157
+Katheleen Lane
+Head wound
+Chest pain
+Pulse: 100
+Temp: 88.3
+PRIORITY 5
+158
+Lorinda Engen
+Head wound
+Chest pain
+Pulse: 146
+Temp: 103
+PRIORITY 5
+161
+Clorinda Dutremble
+Head wound
+Pulse: 120
+Temp: 97.9
+PRIORITY 5
+162
+Mathew Dahle
+Chest pain
+Pulse: 100
+Temp: 100.5
+PRIORITY 5
+162
+Sharee Wohlers
+Pulse: 100
+Temp: 91.8
+PRIORITY 5
+163
+Alease Lindbloom
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+163
+Nella Engebretson
+Head wound
+Pulse: 73
+Temp: 98.6
+PRIORITY 5
+164
+Melina Goldsberry
+Head wound
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+164
+Vanetta Dubois
+Head wound
+Chest pain
+Pulse: 100
+Temp: 87.6
+PRIORITY 5
+164
+Tomas Owsley
+Chest pain
+Pulse: 79
+Temp: 99.3
+PRIORITY 5
+164
+Josie Lundin
+Chest pain
+Pulse: 76
+Temp: 86.2
+PRIORITY 5
+166
+Devora Campfield
+Chest pain
+Pulse: 100
+Temp: 88.8
+PRIORITY 5
+167
+Grisel Minnich
+Chest pain
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+168
+Miquel Leavitt
+Chest pain
+Pulse: 146
+Temp: 98.6
+PRIORITY 5
+168
+Larraine Kofoed
+Head wound
+Chest pain
+Pulse: 112
+Temp: 100.1
+PRIORITY 5
+169
+Yuki Wendell
+Head wound
+Chest pain
+Pulse: 100
+Temp: 85.1
+PRIORITY 5
+169
+Dante Geller
+Chest pain
+Pulse: 100
+Temp: 99.4
+PRIORITY 5
+169
+Sharonda Fullington
+Head wound
+Chest pain
+Pulse: 100
+Temp: 96
+PRIORITY 5
+169
+Harry Makin
+Head wound
+Chest pain
+Pulse: 143
+Temp: 89.4
+PRIORITY 5
+170
+Sage Jackman
+Chest pain
+Pulse: 100
+Temp: 96.3
+PRIORITY 5
+170
+Tanner Hoosier
+Pulse: 96
+Temp: 97
+PRIORITY 5
+170
+Leonia Beckles
+Chest pain
+Pulse: 100
+Temp: 100.4
+PRIORITY 5
+171
+Clayton Gillooly
+Head wound
+Pulse: 125
+Temp: 87.6
+PRIORITY 5
+173
+Vera Edelman
+Head wound
+Chest pain
+Pulse: 101
+Temp: 98.6
+PRIORITY 5
+175
+Roni Minner
+Chest pain
+Pulse: 107
+Temp: 88.4
+PRIORITY 5
+175
+Bethany Boddie
+Pulse: 102
+Temp: 85
+PRIORITY 5
+176
+Kaycee Brazelton
+Chest pain
+Pulse: 113
+Temp: 98.8
+PRIORITY 5
+176
+Keeley Carberry
+Pulse: 145
+Temp: 95.7
+PRIORITY 5
+176
+Ernest Colon
+Chest pain
+Pulse: 143
+Temp: 91.1
+PRIORITY 5
+177
+Casandra Schuessler
+Head wound
+Chest pain
+Pulse: 68
+Temp: 91.6
+PRIORITY 5
+177
+Tisha Harbaugh
+Chest pain
+Pulse: 78
+Temp: 98.6
+PRIORITY 5
+177
+Isela Jared
+Pulse: 100
+Temp: 98.6
+PRIORITY 5
+178
+Sharell Scotti
+Head wound
+Chest pain
+Pulse: 100
+Temp: 93
+PRIORITY 5
+178
+Herman Dufner
+Pulse: 96
+Temp: 96.7
+PRIORITY 5
+178
+Felisha Alcott
+Head wound
+Chest pain
+Pulse: 100
+Temp: 90
+PRIORITY 5
+179
+Brenna Cuff
+Pulse: 83
+Temp: 98.6
+PRIORITY 4
+1
+Roma Sayers
+Pulse: 100
+Temp: 102.5
+PRIORITY 4
+4
+Dorla Mouton
+Pulse: 68
+Temp: 98.7
+PRIORITY 4
+5
+Chelsie Swofford
+Pulse: 65
+Temp: 98.2
+PRIORITY 4
+12
+Britteny Hazeltine
+Pulse: 88
+Temp: 98.6
+PRIORITY 4
+12
+Zenobia Fulcher
+Pulse: 64
+Temp: 98.4
+PRIORITY 4
+16
+Madeleine Leedom
+Pulse: 127
+Temp: 102
+PRIORITY 4
+19
+Mckenzie Towns
+Pulse: 78
+Temp: 98.6
+PRIORITY 4
+22
+Vincent Knighton
+Pulse: 69
+Temp: 99.2
+PRIORITY 4
+27
+Karl Baggett
+Pulse: 100
+Temp: 104.7
+PRIORITY 4
+32
+Rosamaria Facio
+Pulse: 74
+Temp: 96.8
+PRIORITY 4
+37
+Somer Hain
+Pulse: 70
+Temp: 94.1
+PRIORITY 4
+47
+Mary Valdez
+Pulse: 100
+Temp: 102
+PRIORITY 4
+52
+Taunya Krehbiel
+Pulse: 84
+Temp: 94.3
+PRIORITY 4
+52
+Iola Derouen
+Pulse: 73
+Temp: 97.4
+PRIORITY 4
+52
+Lang Saladino
+Pulse: 89
+Temp: 91.8
+PRIORITY 4
+65
+Amada Lacourse
+Pulse: 108
+Temp: 102.1
+PRIORITY 4
+69
+Senaida Karr
+Pulse: 100
+Temp: 100.8
+PRIORITY 4
+77
+Mariann Daughtridge
+Pulse: 126
+Temp: 100.8
+PRIORITY 4
+77
+Anibal Bibby
+Pulse: 62
+Temp: 98.6
+PRIORITY 4
+79
+Nam Luebke
+Pulse: 107
+Temp: 100.5
+PRIORITY 4
+89
+Jacob Pollard
+Pulse: 64
+Temp: 93.9
+PRIORITY 4
+92
+Elwood Simeon
+Pulse: 100
+Temp: 100.4
+PRIORITY 4
+93
+Latashia Crafton
+Pulse: 100
+Temp: 101.4
+PRIORITY 4
+95
+Anton Dewees
+Pulse: 109
+Temp: 100.4
+PRIORITY 4
+108
+Vallie Wyant
+Pulse: 89
+Temp: 88
+PRIORITY 4
+114
+Tobi Sol
+Pulse: 145
+Temp: 104.2
+PRIORITY 4
+118
+Felica Malkin
+Pulse: 67
+Temp: 98.5
+PRIORITY 4
+120
+Emogene Gilland
+Pulse: 64
+Temp: 98.6
+PRIORITY 4
+140
+Meghann Cary
+Pulse: 87
+Temp: 98.6
+PRIORITY 4
+140
+Willetta Broomfield
+Pulse: 67
+Temp: 93.4
+PRIORITY 4
+141
+Adrien Bitton
+Pulse: 62
+Temp: 98.6
+PRIORITY 4
+147
+Afton Clingman
+Pulse: 100
+Temp: 103.7
+PRIORITY 4
+151
+Twila Aiello
+Pulse: 100
+Temp: 101.6
+PRIORITY 4
+155

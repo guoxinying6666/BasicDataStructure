@@ -1,0 +1,73 @@
+Name:           Xiaozheng Guo
+UserName:       XGUO04
+
+Comp15 HW4
+*******************************************************************************
+Purpose of the program
+
+The purpose of the program is implement a alphabetizer, we can input words, and
+the program will output the words in alphabet order.
+*******************************************************************************
+How to run
+
+To run this program, just make sure the Makefile is in the same folder with the 
+other files. And type make in terminal. Than you can type in ./main or ./main \
+filename order to use this program.
+
+*******************************************************************************
+Acknowledgements
+
+I write this program all by my self. I should say thanks to piazza and Mark, 
+they helped me a lot.
+
+*******************************************************************************
+Alphabetizer.cpp
+Alphabetizer.h  :       In these file, I define and inplemented Alphabetizer
+                        class.
+
+AlphaTesting.cpp:       This is the file I used to test my Alphabetizer class.
+
+StringBST.cpp 
+StringBST.h :           In these files, I defined and implemented StringBST
+                        class.
+
+BSTTesting.cpp:         This is the file I used to test my StringBST class.
+
+file:                   This is the file I used to test my second run function.
+
+main.cpp:               This is the main function of the program.
+
+*******************************************************************************
+DataStructure
+
+In this program, I choose to use nodes and pointer to implement my BST. I used 
+BST sorting, insertion, delete, clear and other functions. I am also taking 
+comp160, so I think this homework could be a really good practicing for my 
+algorithm.
+
+*******************************************************************************
+Because there is two exames and 4 homework due this week, I didn't have enough
+time to thinking and write and test my comp15 homework, which I was very sorry
+about. I have to use 2 token to try my best to do this work, but time was still
+too tight for me. Maybe I still need more procticing.
+
+In this program, I write StringBST class first, and I use a BSTTesting.cpp to 
+test it. And than I write the Alphabetizer class whitch is much easier than the
+former one I thought. There is still a problem with the "eof" thing, but time 
+is up. I'll stll work on it until I make it. Wish you could still grade my work
+then.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

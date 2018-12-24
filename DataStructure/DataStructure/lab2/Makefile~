@@ -1,0 +1,11 @@
+CC = clang++
+CFLAGS = -Wall -Wextra -c
+DEPS = Planet.h LinkedList.h
+
+%.o: %.cpp $(DEPS)
+	%(CC) -o $@ $< $(CFLAGS)
+Planet-driver: LinkedList.o Planet.o planet-driver.o
+	$(CC) -o Planet-driver  Linkedlist.o Planet.o planet-driver.o
+clean:
+	rm -f *.o core* *~ Planet-driver
+
